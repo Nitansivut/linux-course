@@ -85,7 +85,6 @@ Tehtävänä oli luoda oma komento Linuxiin, jota kaikki käyttäjät voivat aja
 
 Komento toimii niin, että se valitsee yhden viestin ennalta määritetystä listasta ja tulostaa sen näytölle, kun komentoa käytetään.
 
-
 Aloitin tehtävän luomalla Python-tiedoston onnenkeksi.py micro-editorilla komennolla micro onnenkeksi.py. Kirjoitin tiedostoon kuvassa näkyvän sisällön, tallensin sen painamalla Ctrl + S ja poistuin editorista painamalla Ctrl + Q.
 
 <img width="238" alt="microonnenkeksi" src="https://github.com/user-attachments/assets/dfe0839e-1356-4102-a4d3-010e7a5722e1" />
@@ -138,6 +137,21 @@ https://stackoverflow.com/questions/43343180/how-to-create-our-own-linux-command
 https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
 
 https://stackoverflow.com/questions/7670303/purpose-of-usr-bin-python3-shebang
+
+---
+# d) Vanhan laboratorioharjoituksen ratkaiseminem
+
+Tässä tehtävässä tuli ratkaista vanha laboratorioharjoitus. Tehtävä löytyy opettaja Teron sivuilta [Final Lab for Linux Palvelimet 2024 Spring](https://terokarvinen.com/2024/arvioitava-laboratorioharjoitus-2024-linux-palvelimet/). Tässä ei tarvitse raportoida kaikkia askelia, vain testit että asiat toimivat, tai maininta, että tätä ei ole tehty. 
+
+Alkuun loin uuden tyhjän Linux-virtuaalikoneen samalla tavalla kuin tämän kurssin ensimmäisessä kotitehtävässä h1. Suoritin kaikki saatavilla olevat päivitykset komennoilla sudo apt-get update ja sudo apt-get dist-upgrade sekä asensin palomuurin komennolla apt-get -y install ufw ja otin sen käyttöön komennolla sudo ufw enable.
+
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/a1438b8b-aee2-4b5a-a4ee-059b3d71fe42" />
+
+
+
+
+
+
 
 ---
   
