@@ -128,7 +128,8 @@ Tallensin painamalla Ctrl + S ja poistuin editorista painamalla Ctrl + Q.
 
 Sitten lähti toimimaan.
 
-![image](https://github.com/user-attachments/assets/aec53a34-05fa-4e41-8884-2d527f7584da)
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/3316ceca-bb07-47c0-bac0-56ec19e55074" />
+
 
 Lähteet
 
