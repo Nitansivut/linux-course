@@ -81,7 +81,38 @@ https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programmin
 
 # Uuden komennon luominen ja jakaminen Linuxissa
 
+Tehtävänä oli luoda oma komento Linuxiin, jota kaikki käyttäjät voivat ajaa. Päätin toteuttaa sen Pythonilla. Halusin tuoda positiivisuutta ihmisten päivään ja niinpä tein onnenkeksi-komennon, joka tulostaa kannustavia viestejä. Viestien luomisessa hyödynsin [Fortune Frame]([https://www.fortuneframe.com/](https://fortuneandframe.com/apps/fortunes/all?srsltid=AfmBOor-33rOrg5dCsFS6t7heg1kJF9MPlBE69P6CqhW-j9WfkR8C1Xf)) -sivustolta löytyviä inspiroivia sanomia. Tekniseen puoleen hain neuvoa 
 
+Komento toimii niin, että se valitsee yhden viestin ennalta määritetystä listasta ja tulostaa sen näytölle, kun komentoa käytetään.
+
+
+Aloitin tehtävän luomalla Python-tiedoston onnenkeksi.py micro-editorilla komennolla micro onnenkeksi.py. Kirjoitin tiedostoon kuvassa näkyvän sisällön, tallensin sen painamalla Ctrl + S ja poistuin editorista painamalla Ctrl + Q.
+
+<img width="238" alt="microonnenkeksi" src="https://github.com/user-attachments/assets/dfe0839e-1356-4102-a4d3-010e7a5722e1" />
+<br>
+<br>
+
+<img width="428" alt="pythononnen" src="https://github.com/user-attachments/assets/c5107bee-211d-4f56-8c46-398fac54cdbe" />
+
+Sen jälkeen halusin tietää, että mihin kansioon tallensin tiedoston ja tallentuiko se varmasi ja tarkistin nykyisen sijainnin komennolla pwd.
+
+<img width="237" alt="pwd" src="https://github.com/user-attachments/assets/49c10b82-6485-4762-b37f-c9e7378ec348" />
+
+Ja sitten etsin tekemäni tiedoston komennolla ls.
+
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/0c5b594a-b376-4d90-b976-bc4b2589c8ef" />
+
+Lopuksi suoritin luomani Python-ohjelman komennolla python3 onnenkeksi.py.
+
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/a9308fb4-f087-4a81-a049-adf082b506ff" />
+
+🥹 
+
+Lähteet
+
+https://stackoverflow.com/questions/43343180/how-to-create-our-own-linux-command-for-python-code-file
+
+https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
 
 ---
   
