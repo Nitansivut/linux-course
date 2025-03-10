@@ -255,6 +255,30 @@ Oikeudet >
 
 ## g) Salattua hallintaa 
 
+Tässä tehtävässä tuli asentaa SSH-palvelin ja luoda uusi käyttäjä omalla nimelläni. Lisäksi minun piti automatisoida SSH-kirjautuminen julkisen avaimen menetelmällä, jotta voin kirjautua sisään ilman salasanaa. Kirjautuminen tuli testata käyttämällä localhost-osoitetta.
+
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/ee780ffc-cedb-4a36-9024-8abbf8350aff" />
+<br>
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/a1c7b513-27f8-4fd9-ac73-42dc0db34a5a" />
+<br>
+
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/aa3bd326-baed-4265-bc52-0f2dfe600024" />
+<br>
+
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/21a704a7-0aa8-4c94-b60f-8e2ae37cb021" />
+<br>
+
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/336aca87-a6d5-463e-81fc-9acf637de405" />
+<br>
+
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/986052ad-1fde-4cd3-b7dc-8b3b7f9d749e" />
+<br>
+
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/57bea028-9f2a-456b-8302-b685998e8ba6" />
+<br>
+
+
 
 
 
