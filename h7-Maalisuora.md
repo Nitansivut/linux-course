@@ -292,7 +292,9 @@ https://github.com/Nitansivut/linux-course/blob/main/h4.md
 https://github.com/Nitansivut/linux-course/blob/main/h5.md
 
 https://github.com/Nitansivut/linux-course/blob/main/h1.md
-https://github.com/juuliapurho/linux-course/blob/b7219ac8e3f8114dd74edca5f1d814a86ee3b481/h1-Oma-Linux.md
+
+https://github.com/juuliapurho/linux-course/blob/main/h7-Maalisuora.md
+
 ---
   
 # Tehtävissä käytetty ympäristö 
