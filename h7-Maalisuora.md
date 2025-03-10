@@ -147,11 +147,44 @@ Alkuun loin uuden tyhjän Linux-virtuaalikoneen samalla tavalla kuin tämän kur
 
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/a1438b8b-aee2-4b5a-a4ee-059b3d71fe42" />
 
+## Tehtävät a-c
+
+Ensin loin kotihakemistooni kansion "raportti" ja tallensin siihen raporttitiedoston nimeltä index.md. Sen jälkeen määrittelin tiedostolle Linux-oikeudet niin, että vain oma käyttäjäni pystyy lukemaan raportin. Kuitenkin kirjoitin itse raportin GitHubiin, tämä tiedosto oli vain tehtävän suorittamista varten. En tehnyt muita tehtävien vaiheita.
+
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/39c0638e-0742-4b27-8de0-bdf1b2fcaf69" />
+<br>
+
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/bbc1ff05-bb81-45c2-bee2-19350e58d511" />
+<br>
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/a063a84e-d2b3-4172-b592-e20eabfbf9dd" />
+<br>
+
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/210202db-4924-4467-9643-a0c3ae0e8a4e" />
+
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/e97becba-d129-4ef0-b5d4-6d956d7d85de" />
+
+Seuraavaksi tarkistin index.md-tiedoston oikeudet komennolla ls -l /home/nitafinallab/raportti/index.md. Tämän avulla huomasin, että tiedostolla oli lukuoikeudet sekä ryhmän (group) että muiden käyttäjien (others) käyttöön, lisäksi käyttäjä nita oli ainoa, jolla oli täysi pääsy. Poistin ryhmän ja muiden käyttäjien lukuoikeudet komennolla chmod go-r /home/nita/raportti/index.md. 
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/4a426225-6d94-4883-846b-e89e77b8c2ac" />
+
+## tehtävä d) 'howdy'
+
+Tässä tehtävässä loin komennon nimeltä howdy, joka tulostaa ajankohtaista tietoa, kuten päivämäärän ja koneen osoitteen, kaikille käyttäjille riippumatta heidän työhakemistostaan.
+
+## tehtävä e) Etusivu uusiksi
+
+Tässä asensin Apache-web-palvelimen ja loin yritykselle "AI Kakone" kotisivun. Muutin tiedostojen omistajuuden ja oikeudet niin, että pystyin muokkaamaan sivua normaalilla käyttäjällä ilman sudo-oikeuksia. Kotisivu on nähtävissä Apache-palvelimen kautta koneen IP-osoitteella.
 
 
 
+Lähteet
 
+https://github.com/juuliapurho/linux-course/blob/b7219ac8e3f8114dd74edca5f1d814a86ee3b481/h1-Oma-Linux.md
+https://github.com/Nitansivut/linux-course/blob/main/h2.md
+https://github.com/Nitansivut/linux-course/blob/main/h3.md
 
+https://github.com/juuliapurho/linux-course/blob/main/h7-Maalisuora.md
 
 ---
   
