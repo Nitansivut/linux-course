@@ -293,6 +293,8 @@ https://github.com/Nitansivut/linux-course/blob/main/h5.md
 
 https://github.com/Nitansivut/linux-course/blob/main/h1.md
 
+https://terokarvinen.com/2024/linux-palvelimet-2024-alkukevat/
+
 https://github.com/juuliapurho/linux-course/blob/main/h7-Maalisuora.md
 
 ---
