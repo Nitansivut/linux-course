@@ -161,6 +161,7 @@ Ensin loin kotihakemistooni kansion "raportti" ja tallensin siihen raporttitiedo
 <br>
 
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/210202db-4924-4467-9643-a0c3ae0e8a4e" />
+<br>
 
 <img width="295" alt="image" src="https://github.com/user-attachments/assets/e97becba-d129-4ef0-b5d4-6d956d7d85de" />
 
@@ -172,9 +173,93 @@ Seuraavaksi tarkistin index.md-tiedoston oikeudet komennolla ls -l /home/nitafin
 
 Tässä tehtävässä loin komennon nimeltä howdy, joka tulostaa ajankohtaista tietoa, kuten päivämäärän ja koneen osoitteen, kaikille käyttäjille riippumatta heidän työhakemistostaan.
 
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/3a21ce13-015b-4bcb-a3ac-a5fd040aa39c" />
+<br>
+
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/aa4b584b-7fa9-4dae-92f7-7f0631a537c6" />
+<br>
+
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/c4ffb2a1-4cf7-43bb-bc5b-0cae74350cd4" />
+<br>
+
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/9adf6ba4-8f7d-408c-b79f-2b769d7919c5" />
+<br>
+
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/6250a7d3-bd0c-4a7e-bbbe-67689a65d8b2" />
+<br>
+
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/36d662d9-d33f-42df-b9c3-e53e4d7c07a7" />
+<br>
+
+<img width="201" alt="image" src="https://github.com/user-attachments/assets/ccbefa5f-20ea-481f-85d3-de98fa294662" />
+
+
 ## tehtävä e) Etusivu uusiksi
 
-Tässä asensin Apache-web-palvelimen ja loin yritykselle "AI Kakone" kotisivun. Muutin tiedostojen omistajuuden ja oikeudet niin, että pystyin muokkaamaan sivua normaalilla käyttäjällä ilman sudo-oikeuksia. Kotisivu on nähtävissä Apache-palvelimen kautta koneen IP-osoitteella.
+Tässä tehtävässä asensin Apache-web-palvelimen ja loin yritykselle "AI Kakone" kotisivun. Muutin tiedostojen omistajuuden ja oikeudet niin, että pystyin muokkaamaan sivua normaalilla käyttäjällä ilman sudo-oikeuksia. Kotisivu on nähtävissä Apache-palvelimen kautta koneen IP-osoitteella.
+
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/96aa98a9-a867-4b1c-8d83-ce9a3d91bf99" />
+<br>
+
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/6eb0a6af-9c93-4539-a8dc-caf335b79d23" />
+<br>
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/1960b215-e46b-4a06-ae29-2a6a9662ae8f" />
+<br>
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/bae76eb0-3f2f-439f-b6f7-b4c28ad50d86" />
+<br>
+
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/4a4617d7-dba9-4ea6-80e5-08bceb332092" />
+<br>
+
+Name based virtual host luominen ->
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/a26e8432-99c0-4178-a578-cd52a141d8c3" />
+<br>
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/6f1205a3-acfc-428a-bb72-4e34862269ea" />
+<br>
+
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/9fc716f8-2a72-4a64-8bb1-285280fc57e0" />
+<br>
+
+Name based virtual hostin käynnistys >
+
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/93bbb4a3-7c5f-493a-a77e-ca1c087b05a5" />
+<br>
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/7c1cddd8-c296-4a85-96c5-3617324b6c8e" />
+
+Verkkosivun luonti tavallisena käyttäjänä >
+
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/7b26a3b9-8136-4910-9e3a-b67f28d8b782" />
+<br>
+
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/f819737e-6cbb-45d2-85da-2e74fe897738" />
+<br>
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/5f4153d4-7f41-4315-93b6-00103e26315f" />
+<br>
+
+Korjataan Apachen käynnissä oleva sivu halutuksi > 
+
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/6ed24711-8f02-4909-b5b7-0a8712f3fcb9" />
+<br>
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/dcf696cc-295e-4d04-8a36-ab5b0e2dab57" />
+
+Oikeudet >
+
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/9fb6af38-9d87-49f2-bdb4-b7fdca18b554" />
+
+## g) Salattua hallintaa 
+
+
+
+
+
+
 
 
 
