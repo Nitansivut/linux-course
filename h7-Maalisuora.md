@@ -102,17 +102,41 @@ Ja sitten etsin tekemäni tiedoston komennolla ls.
 
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/0c5b594a-b376-4d90-b976-bc4b2589c8ef" />
 
-Lopuksi suoritin luomani Python-ohjelman komennolla python3 onnenkeksi.py.
+Sitten suoritin luomani Python-ohjelman komennolla python3 onnenkeksi.py.
 
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/a9308fb4-f087-4a81-a049-adf082b506ff" />
 
 🥹 
+
+Halusin vielä varmistaa, että komentoa voi käyttää muutkin, joten halusin antaa kaikille oikeuden suorittaa sen komennolla chmod ugo+x onnenkeksi.py. 
+
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/58530b37-9803-4d25-bee6-bff7d2cc555d" />
+
+Tarkistin vielä, että suoritusoikeuden lisääminen on onnistunut komennolla ls -l onnenkeksi.py.
+
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/dbf261aa-1ff9-4bda-a377-714b3f3a892c" />
+
+Lopuksi suoritin ohjelmani komennolla ./onnenkeksi.py, mutta sain kuvassa näkyvän syntaksin.
+
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/4206e753-d59a-40a9-ab81-03a48fce6746" />
+
+Googlasin, miksi chmod ugo+x -komento ei toimi, ja löysin tietoa, että tiedoston alkuun pitäisi lisätä shebang-rivi #!/usr/bin/env python3. Palasin muokkaamaan tiedostoa komennolla micro onnenkeksi.py ja lisäsin kyseisen rivin sen alkuun.
+
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/92b74778-2c4c-4d46-bf6a-e8906d752366" />
+
+Tallensin painamalla Ctrl + S ja poistuin editorista painamalla Ctrl + Q.
+
+Sitten lähti toimimaan.
+
+![image](https://github.com/user-attachments/assets/aec53a34-05fa-4e41-8884-2d527f7584da)
 
 Lähteet
 
 https://stackoverflow.com/questions/43343180/how-to-create-our-own-linux-command-for-python-code-file
 
 https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+
+https://stackoverflow.com/questions/7670303/purpose-of-usr-bin-python3-shebang
 
 ---
   
