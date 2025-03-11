@@ -224,6 +224,8 @@ Lopuksi testasin HTTPS-sivun toimivuuden, ja se onnistui vihdoin!
 Kannettavalla Chromella selain näyttää seuraavan näkymän:
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59149341-80cc-4818-81d8-2895844ce936" />
+<br>
+
 
 iPhone 13:lla Safarilla selain näyttää seuraavaa:Selaimella Iphone 13 puhelimella Safarissa:
 
