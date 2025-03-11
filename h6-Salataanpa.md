@@ -227,7 +227,7 @@ Kannettavalla Chromella selain näyttää seuraavan näkymän:
 <br>
 
 
-iPhone 13:lla Safarilla selain näyttää seuraavaa:Selaimella Iphone 13 puhelimella Safarissa:
+iPhone 13:lla Safarilla selain näyttää seuraavaa:
 
 ![IMG_8950](https://github.com/user-attachments/assets/cc342bd5-84fa-44be-9729-4f0f0cbfd556)
 
