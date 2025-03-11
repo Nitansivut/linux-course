@@ -219,11 +219,15 @@ Sitten otin käyttöön SSL komennolla sudo a2enmod ssl.
 
 <img width="250" alt="a2enmod" src="https://github.com/user-attachments/assets/b2caeac3-dfb8-478b-ae4c-852e8ec4bc7e" />
 
-Tein tehtävää nyt kaksi päivää putkeen, enkä silti saanut toimimaan. Ohessa vielä viimeisiä asioita mitä kokeilin.
+Lopuksi testasin HTTPS-sivun toimivuuden, ja se onnistui vihdoin!
 
-<img width="579" alt="eitoimi" src="https://github.com/user-attachments/assets/e5050e0b-bcb9-45b7-891b-a9968547bd24" />
+Kannettavalla Chromella selain näyttää seuraavan näkymän:
 
-Minun oli pakko luovuttaa ja jatkaa tämän viikon tehtävän pariin. Tehtävän teko lopetettu 9.3. klo 18.00. 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/59149341-80cc-4818-81d8-2895844ce936" />
+
+iPhone 13:lla Safarilla selain näyttää seuraavaa:Selaimella Iphone 13 puhelimella Safarissa:
+
+![IMG_8950](https://github.com/user-attachments/assets/cc342bd5-84fa-44be-9729-4f0f0cbfd556)
 
 ---
 
@@ -232,6 +236,8 @@ Lähteet
 ChatGPT. Käytetty prompti: Ilmaisen TLS-sertifikaatin hankkiminen ja asentaminen Let's Encryptiltä Linux komentorivillä. OpenAI. Haettu 1.3.2025.
 
 Chatgpt. Käytetty pompti: Suoritin Certbotin Let's Encryptin TLS-sertifikaatin hakemiseksi ja sain virheen: 'ei saada yhteyttä'. Olen tarkistanut DNS-tietueet ja palomuurin asetukset, mutta ongelma jatkuu. Mikä voisi olla virheen syy ja mitä seuraavaksi pitäisi tarkistaa tai kokeilla?. OpenAI. Haettu 9.3
+
+https://github.com/juuliapurho/linux-course/blob/main/h6-Salataampa.md. Luettu 9.3.2025.
 
 ---
 
